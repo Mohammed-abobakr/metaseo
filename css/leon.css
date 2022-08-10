@@ -141,11 +141,6 @@ margin: auto;
 
 
 
-
-
-
-
-
 .jon li {
     border-radius: 10px;
 }
@@ -324,7 +319,6 @@ input[type="search"] {
     width: 100%;
     outline: 0;
 }
-
 .landing .intro-text {
     position: absolute;
     top: 50%;
@@ -348,8 +342,6 @@ input[type="search"] {
 }
 
 /* End Landing section  */
-
-
 /* Start Feature */
 .feature {
     padding-top:60px;
